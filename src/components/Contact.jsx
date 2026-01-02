@@ -15,7 +15,7 @@ const Contact = () => {
                             <MapPin className="text-primary flex-shrink-0" size={24} />
                             <div>
                                 <h5>Factory Address</h5>
-                                <p>Ground, Plot No 40, Sun Industrial Park,<br />Vardaan Group, Bavla, Ahmedabad-382220,<br />Gujarat, India</p>
+                                <p>Ground, Plot No 40, Sun Industrial Park,<br />Nr. Tech Flow,B/h Gopi Plactic,<br />Kubalathad, Ahmedabad</p>
                             </div>
                         </div>
 
